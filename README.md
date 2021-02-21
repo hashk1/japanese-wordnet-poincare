@@ -12,6 +12,7 @@ Poincaré Embedding
 Japanese Wordnet 
 - English page: http://compling.hss.ntu.edu.sg/wnja/index.en.html
 - Japanese page:http://compling.hss.ntu.edu.sg/wnja/index.ja.html
+- License of Data: http://compling.hss.ntu.edu.sg/wnja/license.txt
 
 ### License
 - License of Code: MIT License
