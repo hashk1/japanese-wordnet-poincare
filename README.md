@@ -14,4 +14,4 @@ Japanese Wordnet
 - Japanese page:http://compling.hss.ntu.edu.sg/wnja/index.ja.html
 
 ### License
-License of Code: MIT License
+- License of Code: MIT License
